@@ -32,9 +32,6 @@ yarn-error.log*
 # VS Code - Debugger for Chrome
 .vscode/chrome
 
-# SASS
-src/**/*.css
-
 /public/ext-react
 debug.log
 
